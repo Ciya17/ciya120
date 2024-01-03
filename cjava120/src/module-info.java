@@ -1,0 +1,2 @@
+module cjava120 {
+}
