@@ -11,8 +11,8 @@ public class Add2num {
 		}
 		public static void subt() {
 		int num1=250, num2=100;
-		int sum=num1-num2;
-			System.out.println("Sum of the above numbers="+ sum);
+		int sub=num1-num2;
+			System.out.println("Sub of the above numbers="+ sub);
 			
 		}
 	
