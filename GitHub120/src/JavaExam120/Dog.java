@@ -11,6 +11,9 @@ public class Dog {
 	public String getBreed() {
 		return breed;
 	}
+	public String getName() {
+		return name;
+	}
 
 	}
 
